@@ -30,18 +30,18 @@ MarketView is a predictive model designed to forecast stock market trends by int
    python MarketView.py
 
 
-##Technical Details
+## Technical Details
 
-###Technical Indicators
+### Technical Indicators
 
 The model uses Moving Averages (MA), Exponential Moving Averages (EMA), and Bollinger Bands to analyze stock trends.
 
-###Sentiment Analysis 
+### Sentiment Analysis 
 
 Utilizes VADER for sentiment analysis to gauge the mood of stock market participants.
 
-##Contributing
+## Contributing
 Feel free to contribute to this project by submitting issues or pull requests. Please follow the project's code of conduct and contribution guidelines.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
